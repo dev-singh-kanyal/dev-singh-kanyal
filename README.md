@@ -8,11 +8,5 @@
 <!--Mr-Dev-S-K/Mr-Dev-S-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Todoist Stats
 
-<!-- TODO-IST:START -->
-🏆  6,757 Karma Points           
-🌸  Completed 19 tasks today           
-✅  Completed 536 tasks so far           
-⏳  Longest streak is 29 days
-<!-- TODO-IST:END -->
+### New Profile is under construction
