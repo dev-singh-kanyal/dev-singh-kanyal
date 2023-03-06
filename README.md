@@ -9,7 +9,6 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-<img alt="programmingGif" align="right" src="https://media3.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif?cid=ecf05e47b94f05311a244d6f389d1c8bae9b06e8102e0280&rid=giphy.gif&ct=s" width="300px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username= dev-singh-kanyal&label=Profile%20views&color=f90f0f&style=flat" alt="pursottam6003" /> </p>
 
 ### New Profile is under construction
