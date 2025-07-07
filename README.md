@@ -4,4 +4,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-singh-kanyal&label=Profile%20views&color=f90f0f&style=flat" /> </p>
 
-**New Profile is under construction**
+**7/7 restarted ...**
